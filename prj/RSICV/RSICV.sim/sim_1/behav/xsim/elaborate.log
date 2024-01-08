@@ -1,0 +1,53 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: G:/Xilinx2019/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 7c8acc0f937b498092de80f6ab5eb8fa --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot riscv_soc_tb_behav xil_defaultlib.riscv_soc_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/PC_TOP.v" Line 2. Module PC_TOP doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/MUX.v" Line 4. Module MUX doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/PC.v" Line 4. Module PC doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/IF_ID.v" Line 3. Module IF_ID doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/ID.v" Line 2. Module ID doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/Control.v" Line 3. Module Control doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/ImmGen.v" Line 3. Module ImmGen doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/ID_EX.V" Line 2. Module ID_EX doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/EX.v" Line 2. Module EX doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/MUX.v" Line 4. Module MUX doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/Add.v" Line 3. Module Add doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/ALU_control.v" Line 4. Module ALU_control doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/ALU.v" Line 4. Module ALU doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/EX_MEM.V" Line 2. Module EX_MEM doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/MEM_WB.v" Line 2. Module MEM_WB doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/MUX.v" Line 4. Module MUX doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/MUX.v" Line 4. Module MUX doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/Forwarding_unit.v" Line 2. Module Forwarding_unit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/Hazard_dete.v" Line 2. Module Hazard_dete doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.MUX
+Compiling module xil_defaultlib.PC
+Compiling module xil_defaultlib.PC_TOP
+Compiling module xil_defaultlib.IF_ID
+Compiling module xil_defaultlib.Control
+Compiling module xil_defaultlib.Registers
+Compiling module xil_defaultlib.ImmGen
+Compiling module xil_defaultlib.ID
+Compiling module xil_defaultlib.ID_EX
+Compiling module xil_defaultlib.Add
+Compiling module xil_defaultlib.ALU_control
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.EX
+Compiling module xil_defaultlib.EX_MEM
+Compiling module xil_defaultlib.MEM_WB
+Compiling module xil_defaultlib.WB
+Compiling module xil_defaultlib.Forwarding_unit
+Compiling module xil_defaultlib.Hazard_dete
+Compiling module xil_defaultlib.riscv
+Compiling module xil_defaultlib.inst_mem
+Compiling module xil_defaultlib.data_mem
+Compiling module xil_defaultlib.RISCV_SOC
+Compiling module xil_defaultlib.riscv_soc_tb
+ERROR: [XSIM 43-3185] "G:/OneDrive/Desktop/Design_Verilog/project/2050285ÎâÖÂÔ¶RISCVÆÚÄ©¿ÎÉè/prj/rtl/riscv_soc_tb.v" Line 17. Number of arguments are less than format specifiers. 

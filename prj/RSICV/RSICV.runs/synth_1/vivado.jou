@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Jan  3 18:19:50 2024
+# Process ID: 18844
+# Current directory: G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/RSICV/RSICV.runs/synth_1
+# Command line: vivado.exe -log RISCV_SOC.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source RISCV_SOC.tcl
+# Log file: G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/RSICV/RSICV.runs/synth_1/RISCV_SOC.vds
+# Journal file: G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/RSICV/RSICV.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source RISCV_SOC.tcl -notrace

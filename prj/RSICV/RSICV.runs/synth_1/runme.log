@@ -1,0 +1,73 @@
+
+*** Running vivado
+    with args -log RISCV_SOC.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source RISCV_SOC.tcl
+
+
+****** Vivado v2019.2 (64-bit)
+  **** SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+  **** IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+    ** Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+source RISCV_SOC.tcl -notrace
+Command: synth_design -top RISCV_SOC -part xc7a100tcsg324-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 22316 
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:03 ; elapsed = 00:00:04 . Memory (MB): peak = 713.105 ; gain = 238.914
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'RISCV_SOC' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/RISCV_SOC.v:23]
+INFO: [Synth 8-6157] synthesizing module 'riscv' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/riscv.v:1]
+INFO: [Synth 8-6157] synthesizing module 'PC_TOP' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/PC_TOP.v:2]
+INFO: [Synth 8-6157] synthesizing module 'MUX' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/MUX.v:4]
+INFO: [Synth 8-6155] done synthesizing module 'MUX' (1#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/MUX.v:4]
+INFO: [Synth 8-6157] synthesizing module 'PC' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/PC.v:4]
+INFO: [Synth 8-6155] done synthesizing module 'PC' (2#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/PC.v:4]
+INFO: [Synth 8-6155] done synthesizing module 'PC_TOP' (3#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/PC_TOP.v:2]
+INFO: [Synth 8-6157] synthesizing module 'IF_ID' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/IF_ID.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'IF_ID' (4#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/IF_ID.v:3]
+INFO: [Synth 8-6157] synthesizing module 'ID' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ID.v:2]
+INFO: [Synth 8-6157] synthesizing module 'Control' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Control.v:3]
+INFO: [Synth 8-155] case statement is not full and has no default [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Control.v:19]
+INFO: [Synth 8-6155] done synthesizing module 'Control' (5#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Control.v:3]
+INFO: [Synth 8-6157] synthesizing module 'Registers' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Registers.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'Registers' (6#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Registers.v:3]
+INFO: [Synth 8-6157] synthesizing module 'ImmGen' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ImmGen.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'ImmGen' (7#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ImmGen.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'ID' (8#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ID.v:2]
+INFO: [Synth 8-6157] synthesizing module 'ID_EX' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ID_EX.V:2]
+INFO: [Synth 8-6155] done synthesizing module 'ID_EX' (9#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ID_EX.V:2]
+INFO: [Synth 8-155] case statement is not full and has no default [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/riscv.v:171]
+INFO: [Synth 8-155] case statement is not full and has no default [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/riscv.v:177]
+INFO: [Synth 8-6157] synthesizing module 'EX' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/EX.v:2]
+INFO: [Synth 8-6157] synthesizing module 'Add' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Add.v:3]
+INFO: [Synth 8-6155] done synthesizing module 'Add' (10#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Add.v:3]
+INFO: [Synth 8-6157] synthesizing module 'ALU_control' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ALU_control.v:4]
+INFO: [Synth 8-155] case statement is not full and has no default [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ALU_control.v:24]
+INFO: [Synth 8-6155] done synthesizing module 'ALU_control' (11#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ALU_control.v:4]
+INFO: [Synth 8-6157] synthesizing module 'ALU' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ALU.v:4]
+INFO: [Synth 8-6155] done synthesizing module 'ALU' (12#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ALU.v:4]
+INFO: [Synth 8-6155] done synthesizing module 'EX' (13#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/EX.v:2]
+INFO: [Synth 8-6157] synthesizing module 'EX_MEM' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/EX_MEM.V:2]
+INFO: [Synth 8-6155] done synthesizing module 'EX_MEM' (14#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/EX_MEM.V:2]
+INFO: [Synth 8-6157] synthesizing module 'MEM_WB' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/MEM_WB.v:2]
+INFO: [Synth 8-6155] done synthesizing module 'MEM_WB' (15#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/MEM_WB.v:2]
+INFO: [Synth 8-6157] synthesizing module 'WB' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/WB.v:2]
+INFO: [Synth 8-6155] done synthesizing module 'WB' (16#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/WB.v:2]
+INFO: [Synth 8-6157] synthesizing module 'Forwarding_unit' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Forwarding_unit.v:2]
+INFO: [Synth 8-6155] done synthesizing module 'Forwarding_unit' (17#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Forwarding_unit.v:2]
+INFO: [Synth 8-6157] synthesizing module 'Hazard_dete' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Hazard_dete.v:2]
+INFO: [Synth 8-6155] done synthesizing module 'Hazard_dete' (18#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Hazard_dete.v:2]
+INFO: [Synth 8-6155] done synthesizing module 'riscv' (19#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/riscv.v:1]
+INFO: [Synth 8-6157] synthesizing module 'inst_mem' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/inst_mem.v:1]
+INFO: [Synth 8-3876] $readmem data file 'machinecode.txt' is read successfully [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/inst_mem.v:9]
+INFO: [Synth 8-6155] done synthesizing module 'inst_mem' (20#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/inst_mem.v:1]
+INFO: [Synth 8-6157] synthesizing module 'data_mem' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/data_mem.v:1]
+WARNING: [Synth 8-2898] ignoring malformed $readmem task: invalid memory name [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/data_mem.v:13]
+INFO: [Synth 8-6155] done synthesizing module 'data_mem' (21#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/data_mem.v:1]
+INFO: [Synth 8-6155] done synthesizing module 'RISCV_SOC' (22#1) [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/RISCV_SOC.v:23]
+WARNING: [Synth 8-3331] design inst_mem has unconnected port addr[1]
+WARNING: [Synth 8-3331] design inst_mem has unconnected port addr[0]
+TclStackFree: incorrect freePtr. Call out of sequence?

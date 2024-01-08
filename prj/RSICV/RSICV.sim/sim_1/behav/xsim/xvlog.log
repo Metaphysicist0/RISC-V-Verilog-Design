@@ -1,0 +1,49 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ALU_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Add.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Add
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/EX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/EX_MEM.V" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_MEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Forwarding_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Forwarding_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Hazard_dete.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Hazard_dete
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ID_EX.V" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_EX
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/IF_ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_ID
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/ImmGen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ImmGen
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/MEM_WB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEM_WB
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/PC_TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC_TOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/RISCV_SOC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RISCV_SOC
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/Registers.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Registers
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/WB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module WB
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/data_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/inst_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inst_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/riscv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module riscv
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/riscv_soc_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module riscv_soc_tb
+WARNING: [VRFC 10-3522] missing or empty argument against format specification for 'display' [G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/rtl/riscv_soc_tb.v:17]
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/OneDrive/Desktop/Design_Verilog/project/2050285吴致远RISCV期末课设/prj/RSICV/RSICV.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
