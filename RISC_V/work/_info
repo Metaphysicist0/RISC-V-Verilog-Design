@@ -1,0 +1,485 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dD:/workware/modelsim/examples
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+Vf6CzmdkZ_8;MeejAD87X?0
+Z1 04 12 4 work riscv_soc_tb fast 0
+=1-c85b76eced5e-6395b6bc-37-1d58
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z3 OL;O;10.2c;57
+Z4 dD:/workware/modelsim/examples
+!s110 1670756029
+T_opt1
+!s110 1670854799
+VR<?@imTWX931DkPSjTdHJ2
+R1
+=1-c85b76eced5e-6397388d-27d-f4
+R2
+n@_opt1
+R3
+vAdd
+I4zd]1Rf1O?570hS=kP65m0
+Z5 V`JN@9S9cnhjKRR_L]QIcM3
+Z6 dC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V
+w1670853792
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Add.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Add.v
+L0 3
+Z7 OL;L;10.2c;57
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Add.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@add
+Z9 !s110 1670854778
+!s100 2R>EmmBa_44:Azh27VBkh1
+!s108 1670854778.035000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Add.v|
+!i10b 1
+!s85 0
+!i111 0
+vALU
+R9
+I7TR^9RjZU0`nX;<7>83CU1
+R5
+R6
+w1670853814
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU.v
+L0 4
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU.v|
+R8
+n@a@l@u
+!s100 5W?]8n19TG0bGNfOP@;Zn2
+!s108 1670854778.175000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU.v|
+!i10b 1
+!s85 0
+!i111 0
+vALU_control
+R9
+I9QdJ^j14iYnfKYok0^^S=1
+R5
+R6
+w1670853808
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU_control.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU_control.v
+L0 4
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU_control.v|
+R8
+n@a@l@u_control
+!s100 ob?6JGimTbVBNgK6ePdNC0
+!s108 1670854778.352000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU_control.v|
+!i10b 1
+!s85 0
+!i111 0
+vControl
+R9
+I3<5iYRL0gf<?5hbPn[[D50
+R5
+R6
+w1670853803
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Control.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Control.v
+L0 3
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Control.v|
+R8
+n@control
+!s100 FIHVzlE_<dV8eI2TVj@<83
+!s108 1670854778.477000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Control.v|
+!i10b 1
+!s85 0
+!i111 0
+vdata_mem
+R9
+!s100 OYQoWE6LTkzonWO9QQmnV1
+IlAAkOEFTQEE6;TSMDIG0d1
+R5
+R6
+Z10 w1608532480
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/data_mem.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/data_mem.v
+L0 1
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/data_mem.v|
+R8
+!s108 1670854778.591000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/data_mem.v|
+!i10b 1
+!s85 0
+!i111 0
+vEX
+R9
+!s100 211_JgTholKR0mT^T]Vb80
+IP3L[[A>PJ0jz41LQ<lzBi2
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX.v
+L0 2
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX.v|
+R8
+n@e@x
+!s108 1670854778.717000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX.v|
+!i10b 1
+!s85 0
+!i111 0
+vEX_MEM
+R9
+!s100 69R9@=^dMmPi2BdSGmF751
+I55YUMiZ]l[bA=ZMe6MeE_1
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX_MEM.V
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX_MEM.V
+L0 2
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX_MEM.V|
+R8
+n@e@x_@m@e@m
+!s108 1670854778.838000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX_MEM.V|
+!i10b 1
+!s85 0
+!i111 0
+vForwarding_unit
+R9
+!s100 A9eE=?LAQ^@D`I6;`11VN2
+I0mhzhQGZGagj@E^GSW;^z2
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Forwarding_unit.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Forwarding_unit.v
+L0 2
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Forwarding_unit.v|
+R8
+n@forwarding_unit
+!s108 1670854778.956000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Forwarding_unit.v|
+!i10b 1
+!s85 0
+!i111 0
+vHazard_dete
+!s100 GN=B1A8G9E6ieRl:Lfm9Q2
+IS__N^2=>gQ[>Wb;]fXR_K0
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Hazard_dete.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Hazard_dete.v
+L0 2
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Hazard_dete.v|
+R8
+n@hazard_dete
+Z11 !s110 1670854779
+!s108 1670854779.089000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Hazard_dete.v|
+!i10b 1
+!s85 0
+!i111 0
+vID
+R11
+!s100 ^SlDEM:nF[QI1aVh]kXNK1
+INFzL^f=>ncmcB>8@Hk5a?1
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID.v
+L0 2
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID.v|
+R8
+n@i@d
+!s108 1670854779.200000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID.v|
+!i10b 1
+!s85 0
+!i111 0
+vID_EX
+R11
+!s100 iJ_WTR:1B0Ade3[:?n::N3
+I=3z_im3`C]i_dNm2ACDA^2
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID_EX.V
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID_EX.V
+L0 2
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID_EX.V|
+R8
+n@i@d_@e@x
+!s108 1670854779.319000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID_EX.V|
+!i10b 1
+!s85 0
+!i111 0
+vIF
+R11
+!s100 4iLHM@zKT[9g;HYKIR3c]0
+Ib`JceVbQNmV_8Il717[VF1
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF.v
+L0 2
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF.v|
+R8
+n@i@f
+!s108 1670854779.426000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF.v|
+!i10b 1
+!s85 0
+!i111 0
+vIF_ID
+R11
+!s100 kgKD0_?2?3kQ;JWS^GZZB2
+IfK`a[a>aCm7XiWNSQQP3C3
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF_ID.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF_ID.v
+L0 3
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF_ID.v|
+R8
+n@i@f_@i@d
+!s108 1670854779.563000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF_ID.v|
+!i10b 1
+!s85 0
+!i111 0
+vImmGen
+R11
+IC9EDCVgUAjE:5B8H1`8a`2
+R5
+R6
+w1670853836
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ImmGen.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ImmGen.v
+L0 3
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ImmGen.v|
+R8
+n@imm@gen
+!s100 UMhO5BNkSDcBY]8Iaz=In0
+!s108 1670854779.668000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ImmGen.v|
+!i10b 1
+!s85 0
+!i111 0
+vinst_mem
+R11
+!s100 e4z@VFSIcoVjGg6UaidC@0
+IS[EYLd_`Y0[B5dkXV`:_^2
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/inst_mem.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/inst_mem.v
+L0 1
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/inst_mem.v|
+R8
+!s108 1670854779.798000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/inst_mem.v|
+!i10b 1
+!s85 0
+!i111 0
+vMEM_WB
+R11
+!s100 1FT14IGb1AD44lo<gljG_0
+I5?idM7:SIB[PaGPcR>7D10
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MEM_WB.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MEM_WB.v
+L0 2
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MEM_WB.v|
+R8
+n@m@e@m_@w@b
+!s108 1670854779.922000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MEM_WB.v|
+!i10b 1
+!s85 0
+!i111 0
+vMUX
+I;mRiXLimLI33aoQ^<zlkA3
+R5
+R6
+w1670853848
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MUX.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MUX.v
+L0 4
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MUX.v|
+R8
+n@m@u@x
+Z12 !s110 1670854780
+!s100 Z^B_lC8WzMhJke0:mL;_B3
+!s108 1670854780.032000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MUX.v|
+!i10b 1
+!s85 0
+!i111 0
+vPC
+R12
+I5`a;mC?HY0hz2I>SegoJX1
+R5
+R6
+w1670853797
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/PC.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/PC.v
+L0 4
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/PC.v|
+R8
+n@p@c
+!s100 34^[XDRZBfTBmXVK__U3X2
+!s108 1670854780.132000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/PC.v|
+!i10b 1
+!s85 0
+!i111 0
+vRegisters
+R12
+Ii@biDYFNff?XM3OFPhWG=3
+R5
+R6
+w1670853855
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Registers.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Registers.v
+L0 3
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Registers.v|
+R8
+n@registers
+!s100 jb@=zYl4eOOz;<292iYj73
+!s108 1670854780.240000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Registers.v|
+!i10b 1
+!s85 0
+!i111 0
+vriscv
+R12
+!s100 SeV?dXSUAn551zX=<2TlA0
+I_0zkLd=gd8b_3BOZJFnYT2
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv.v
+L0 1
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv.v|
+R8
+!s108 1670854780.341000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv.v|
+!i10b 1
+!s85 0
+!i111 0
+vriscv_soc_tb
+R12
+!s100 <V`<;mn2akijfU=IbQZ;[0
+I?IRc@R2:>Ul1^VgceMic62
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv_soc_tb.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv_soc_tb.v
+L0 3
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv_soc_tb.v|
+R8
+!i10b 1
+!s85 0
+!s108 1670854780.448000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv_soc_tb.v|
+!i111 0
+vWB
+!s100 @USz1A;ohXLG4ZKk87W<>2
+IWah5@l]>=`d8:U8jaEn133
+R5
+R6
+R10
+8C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/WB.v
+FC:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/WB.v
+L0 2
+R7
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/WB.v|
+R8
+n@w@b
+!s110 1670854777
+!s108 1670854777.731000
+!s107 C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/WB.v|
+!i10b 1
+!s85 0
+!i111 0

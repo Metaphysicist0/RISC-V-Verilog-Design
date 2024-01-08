@@ -1,0 +1,155 @@
+C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MEM_WB.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MEM_WB.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/WB.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/WB.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module WB
+
+Top level modules:
+	WB
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Control.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Control.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID_EX.V {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID_EX.V
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MUX.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/MUX.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Forwarding_unit.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Forwarding_unit.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module Forwarding_unit
+
+Top level modules:
+	Forwarding_unit
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/PC.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/PC.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF_ID.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF_ID.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX_MEM.V {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX_MEM.V
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ID.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ImmGen.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ImmGen.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module ImmGen
+
+Top level modules:
+	ImmGen
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/EX.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module EX
+
+Top level modules:
+	EX
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/IF.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module IF
+
+Top level modules:
+	IF
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module riscv
+
+Top level modules:
+	riscv
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/data_mem.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/data_mem.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Registers.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Registers.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module Registers
+
+Top level modules:
+	Registers
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv_soc_tb.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/riscv_soc_tb.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module riscv_soc_tb
+
+Top level modules:
+	riscv_soc_tb
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Add.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Add.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module Add
+
+Top level modules:
+	Add
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU_control.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/ALU_control.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module ALU_control
+
+Top level modules:
+	ALU_control
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Hazard_dete.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/Hazard_dete.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module Hazard_dete
+
+Top level modules:
+	Hazard_dete
+
+} {} {}} C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/inst_mem.v {1 {vlog -work work -vopt C:/Users/Administrator.DESKTOP-U17ATRE/Desktop/RISC_V/RISC_V/inst_mem.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module inst_mem
+
+Top level modules:
+	inst_mem
+
+} {} {}}
